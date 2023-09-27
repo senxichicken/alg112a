@@ -12,4 +12,3 @@ for i in range(20):
 
 
 
-![](https://hackmd.io/_uploads/HyDoqzZgp.png)
