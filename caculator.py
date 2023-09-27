@@ -9,3 +9,7 @@ x1 = x2 = x3 = 1
 for i in range(20):
     x1, x2, x3 = f1(x1), f2(x2), f3(x3)
     print('x1:', x1, 'x2', x2, 'x3', x3)
+
+
+
+![](https://hackmd.io/_uploads/HyDoqzZgp.png)
